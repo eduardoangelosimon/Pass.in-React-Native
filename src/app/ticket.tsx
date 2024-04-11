@@ -51,7 +51,6 @@ export default function Ticket() {
     return <Redirect href="/" />;
   }
 
-  console.log(badgeStore.data.id);
   return (
     <View className="flex-1 bg-green-500">
       <StatusBar barStyle="light-content" />
