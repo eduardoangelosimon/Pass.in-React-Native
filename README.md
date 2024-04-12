@@ -5,7 +5,7 @@
 <h1>Pass.In</h1>
 
 <div align="center">
-  <a href="#-tecnologias">Tecnologias</a> | <a href="#o-projeto">O Projeto</a> | <a href="#-teste-a-aplicação">Teste a Aplicação</a> 
+  <a href="#-tecnologias">Tecnologias</a> | <a href="#-o-projeto">O Projeto</a> | <a href="#-teste-a-aplicação">Teste a Aplicação</a> 
 </div>
 
 <img src="/assets/to_readme/computer-banner-passin.png">
