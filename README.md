@@ -5,16 +5,16 @@
 <h1>Pass.In</h1>
 
 <div align="center">
-  <a href="#-tecnologias">Tecnologias</a> | <a href="#projeto">O Projeto</a> | <a href="#-teste-a-aplicação">Teste a Aplicação</a> 
+  <a href="#-tecnologias">Tecnologias</a> | <a href="#o-projeto">O Projeto</a> | <a href="#-teste-a-aplicação">Teste a Aplicação</a> 
 </div>
 
 <img src="/assets/to_readme/computer-banner-passin.png">
 <img src="/assets/to_readme/screens-mobile-passin.png">
 
-<div id="projeto">
+
   # 👷🏻 O Projeto
   Esse é um projeto desenvolvido e ministrado pela Rocketseat no decorrer da trilha de React Native da NLW Unite. O programa é um aplicativo de ingressos para check-in em eventos presenciais. O objetivo principal da aplicação é que o usuário crie uma conta e gere um QRCode para utilizar nos eventos que ele participar.
-</div>
+
 
 # 🤳🏻 Funcionalidades
 
