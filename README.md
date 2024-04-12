@@ -1,1 +1,2 @@
-<img src="/assets/to_readme/video-passin.mp4">
+<img src="/assets/to_readme/banner-passin.png">
+<img src="/assets/to_readme/screens-mobile-passin.png">
