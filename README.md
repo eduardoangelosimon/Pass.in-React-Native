@@ -49,7 +49,7 @@ Link para o repositório do backend: <a href="https://github.com/eduardoangelosi
 
   ## Clone o repositório
 ```
-  git clone https://github.com/eduardoangelosimon/Ig.News.git
+  https://github.com/eduardoangelosimon/Pass.in-React-Native.git
 ```
   ## Instale todos os pacotes
 
