@@ -45,7 +45,7 @@ Para rodar o projeto localmente você precisará seguir algumas instruções. <b
 Também será necessário utilizar <a href="https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable" target="_blank">Yarn</a> ou <a href="https://www.npmjs.com/" target="_blank">Npm</a> para a instalação de pacotes. <br>
 
 Além disso, será necessário rodar backend desenvolvido em NodeJS
-Link para o repositório do backend: <a href="https://github.com/eduardoangelosimon/Pass.in-Node-Server" target="_blank">
+Link para o repositório do backend: <a href="https://github.com/eduardoangelosimon/Pass.in-Node-Server" target="_blank">Backend NLW Unite</a> <br>
 
   ## Clone o repositório
 ```
